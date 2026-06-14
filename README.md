@@ -47,7 +47,7 @@ A lightweight, Manifest V3 Chrome Extension to save, manage, and instantly jump 
 
 ## Usage
 
-1. Open any PDF in Chrome.
+1. Open any PDF in Browser.
 2. Click the extension icon.
 3. The PDF filename will automatically appear.
 4. Enter a page number.
