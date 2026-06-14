@@ -23,18 +23,11 @@ A lightweight, Manifest V3 Chrome Extension to save, manage, and instantly jump 
 
 ## Installation
 
-1. Create a folder named:
+1. Download ZIP
 
-   pdf-page-bookmarks
+2. Extract files
 
-2. Add these files:
-
-   - manifest.json
-   - popup.html
-   - popup.css
-   - popup.js
-
-3. Open Chrome.
+3. Open Browser.
 
 4. Go to:
 
@@ -48,7 +41,7 @@ A lightweight, Manifest V3 Chrome Extension to save, manage, and instantly jump 
 
    Load Unpacked
 
-7. Select the extension folder.
+7. Select the extracted folder.
 
 ---
 
