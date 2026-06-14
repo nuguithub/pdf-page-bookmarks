@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>PDF Bookmarks</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+  <h1>PDF Bookmarks</h1>
+
+  <form id="bookmarkForm">
+    <input class="col-0" type="text" id="title" placeholder="PDF Title" readonly>
+    <input class="col-1" type="number" id="page" placeholder="Page Number" min="1" required>
+    <button class="col-2" type="submit">Save</button>
+  </form>
+
+  <button id="clearAll" class="danger">Delete All</button>
+
+  <div id="bookmarks"></div>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>
